@@ -1,0 +1,10 @@
+{
+  "R_leave_threshold": -0.55,
+  "R_return_threshold": -0.75,
+  "results": [
+    {"alpha": 0.2, "R_leave": -0.5466, "R_return": null, "width": null, "hyst_ok": false, "frac_A_worsen": 0.57, "frac_A_improve": 0.0, "frac_P2_worsen": 0.42, "frac_P2_improve": 1.0},
+    {"alpha": 0.5, "R_leave": -0.5466, "R_return": null, "width": null, "hyst_ok": false, "frac_A_worsen": 0.57, "frac_A_improve": 0.0, "frac_P2_worsen": 0.42, "frac_P2_improve": 1.0},
+    {"alpha": 0.75, "R_leave": -0.5466, "R_return": -0.7602, "width": 0.2136, "hyst_ok": true, "frac_A_worsen": 0.57, "frac_A_improve": 0.28, "frac_P2_worsen": 0.0, "frac_P2_improve": 0.0},
+    {"alpha": 0.9, "R_leave": -0.5466, "R_return": -0.7602, "width": 0.2136, "hyst_ok": true, "frac_A_worsen": 0.57, "frac_A_improve": 0.28, "frac_P2_worsen": 0.0, "frac_P2_improve": 0.0}
+  ]
+}
