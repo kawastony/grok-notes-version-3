@@ -1,0 +1,12 @@
+{
+  "higher_forman": {
+    "B": {"R1_mean": -1.633, "R1_std": 0.204, "R2_mean": 0.0, "n2_mean": 17.7, "n3_mean": 11.6},
+    "T": {"R1_mean": -0.310, "R1_std": 0.507, "R2_mean": 0.0, "n2_mean": 4.5, "n3_mean": 0.8},
+    "P": {"R1_mean": 0.089, "R1_std": 0.284, "R2_mean": 0.0, "n2_mean": 0.8, "n3_mean": 0.0}
+  },
+  "ot_methods_toy": {
+    "W_exact_LP": 1.0,
+    "W_sinkhorn_eps0.05": 0.9993,
+    "W_sinkhorn_eps0.5": 1.0
+  }
+}
