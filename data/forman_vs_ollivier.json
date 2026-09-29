@@ -1,0 +1,14 @@
+{
+  "results": {
+    "B": {"R_F_mean": -1.144, "R_O_mean": -0.224, "R_F_std": 0.412, "R_O_std": 0.041, "corr_FO_seeds": 0.996},
+    "T": {"R_F_mean": -0.526, "R_O_mean": -0.172, "R_F_std": 0.375, "R_O_std": 0.037, "corr_FO_seeds": 0.826},
+    "P": {"R_F_mean": 0.240, "R_O_mean": -0.017, "R_F_std": 0.155, "R_O_std": 0.046, "corr_FO_seeds": 0.422}
+  },
+  "global_corr_RF_RO": 0.922,
+  "definitions": {
+    "Forman_edge": "4 - deg u - deg v + 3 #triangles",
+    "Forman_d": "|cofaces| + |faces| - |parallel neighbors|",
+    "Ollivier_alpha0": "1 - W1(mu_u, mu_v) / d(u,v)",
+    "R": "-(mid - bulk)"
+  }
+}
