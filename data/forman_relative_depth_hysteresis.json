@@ -1,0 +1,14 @@
+{
+  "convention": "R = -(F_mid - F_all); dense mid (B) → more negative R → active-capable",
+  "summaries": {
+    "B": {"R_mean": -1.143, "R_std": 0.337, "gain_mean": 0.873, "slope_mean": 0.02024, "F_mid_mean": 3.34, "n_mid_mean": 9.3},
+    "T": {"R_mean": -0.425, "R_std": 0.504, "gain_mean": 0.736, "slope_mean": 0.00825, "F_mid_mean": 0.89, "n_mid_mean": 6.8},
+    "P": {"R_mean": 0.159, "R_std": 0.225, "gain_mean": 0.825, "slope_mean": 0.00054, "F_mid_mean": 0.02, "n_mid_mean": 4.4}
+  },
+  "spearman": {
+    "identity_slope": {"rho": -0.85, "p": 0.0},
+    "R_slope": {"rho": -0.983, "p": 0.0}
+  },
+  "thresholds": {"R_leave": -0.55, "R_return": -0.75},
+  "hysteresis": {"R_leave_obs": -0.154, "R_return_obs": -0.948, "width": 0.794}
+}

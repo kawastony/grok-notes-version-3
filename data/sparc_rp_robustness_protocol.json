@@ -1,0 +1,22 @@
+{
+  "name": "SPARC_rp_robustness_protocol",
+  "steps": [
+    "1. Load Table1 (19-col CDS) + Rotmod; Q<=2",
+    "2. Compute X=(SB_disk/Sigma_ref)^{1/7}",
+    "3. For each galaxy: crude, threshold (0.2-0.8 Rmax), logistic r_p",
+    "4. Flag bound-hits; keep interior-only for primary analysis",
+    "5. Coverage cut Rmax > 1.2 r_p",
+    "6. M0 vs M1 on mu_hat",
+    "7. C_ee(dX) + 2000-perm shuffle on residuals",
+    "8. Hierarchical Bayes LOO; Pareto-k diagnostic; leave-one-out if k>0.7",
+    "9. Freeze lattice residual layer unless shuffle rejects white"
+  ],
+  "synthetic_summary": {
+    "n": 40,
+    "thr_ok": 32,
+    "log_ok": 23,
+    "crude_rmse": 1.20,
+    "thr_rmse": 4.14,
+    "log_rmse": 7.80
+  }
+}
