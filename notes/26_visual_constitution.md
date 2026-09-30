@@ -31,6 +31,11 @@ If a later session adds true generative video, replace `media/videos/07_pause_cr
 | `media/videos/01_…06_*.mp4` | 6 s zoom on the matching still |
 | `media/videos/07_pause_crossing.mp4` | Particle on A, hovers on P, resumes on A′. Caption states conservation |
 
-## What the crossing clip must not say
+## Bundle
+
+All of the above also sit in `media/grok-notes-v3-media.zip` so one download gets the same set.
+
+Conversation Imagine posters (bridge painting, four-panel storyboard, living puzzle) are chat-render only; they are not binary files in this repo. The law-accurate files are the `media/stills` and `media/videos` set.
+
 
 No FTL. No claim that 11/72 or \(R_{\mathrm{cone}}\) is derived from the toy. Residuals after SPARC M1 stay white unless a later note upgrades that freeze.
