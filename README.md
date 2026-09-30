@@ -17,7 +17,10 @@ Scope: active/pause ontological phase pair, three-bridge minimal model (1 active
 | `notes/04_sparc_freeze.md` | M0/M1 residual freeze (white residuals) |
 | `notes/05_destination_path_boundaries.md` | Bridge images + puzzle + phases by scale |
 | `notes/06_galactic_cosmic_pause.md` | Spatial r_p vs temporal z pause; forced vs free |
-| `data/hysteresis_3bridge_toy.json` | Simulation output |
+| `notes/26_visual_constitution.md` | Stills + videos of the four laws |
+| `media/stills/` | Six constitution diagrams |
+| `media/videos/` | Ken-Burns stills + pause-crossing animation |
+
 
 ## Claim level
 
