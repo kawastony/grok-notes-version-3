@@ -35,7 +35,7 @@ If a later session adds true generative video, replace `media/videos/07_pause_cr
 
 All of the above also sit in `media/grok-notes-v3-media.zip` so one download gets the same set.
 
-Conversation Imagine posters (bridge painting, four-panel storyboard, living puzzle) are chat-render only; they are not binary files in this repo. The law-accurate files are the `media/stills` and `media/videos` set.
+Conversation Imagine posters are now in `media/posters/` (session render IDs). Cinema videos generated in the Grok UI are **not** in the agent workspace — attach the mp4s and they go in `media/videos/cinema_/`.
 
 
 No FTL. No claim that 11/72 or \(R_{\mathrm{cone}}\) is derived from the toy. Residuals after SPARC M1 stay white unless a later note upgrades that freeze.
