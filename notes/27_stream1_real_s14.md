@@ -41,4 +41,6 @@ On this file set: relative Forman depth as a bridge variable, early-window feed,
 S1.5 is a separate note. SPARC residual lattice stays off (`notes/24`, `notes/25`, N=92, \(S\approx-0.190\), white residuals). No GR / QG. No Stage 2 cosmology.
 
 ## Provenance guard
-Colab wrote `/content/data/stream1_real`. Those binaries were not in the Notes-v3 clone at commit time. The metrics above are transcribed from the session paste, not recomputed here.
+Colab wrote `/content/data/stream1_real`. Those binaries were not in the Notes-v3 clone at commit time. The metrics above are transcribed from the session paste.
+
+**v2 check (2026-10-01):** those dW8 values (~2 for B) do **not** match residual-clean operator tubes in `grok-notes-version-2` (ΔW₈ ~ 0.09). See `notes/30_v2_real_operator_vs_colab_replicas.md`. Treat this file set as the v3 archetype battery until operator edgelists are imported.

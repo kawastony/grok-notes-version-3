@@ -24,6 +24,7 @@ Scope: active/pause ontological phase pair, three-bridge minimal model (1 active
 | `notes/27_stream1_real_s14.md` | S1.1 S1.2 S1.4 pass (Colab real-file metrics) |
 | `notes/28_stream1_s15_ollivier.md` | S1.5 Ollivier LP/Sinkhorn pass |
 | `notes/29_stream2_pymc_repeat.md` | 2026-10-01 PyMC/LOO repeat |
+| `notes/30_v2_real_operator_vs_colab_replicas.md` | v2 operator tubes vs Colab “real” files |
 | `data/stream1_s15_ollivier.json` | S1.5 numeric dump |
 | `media/stills/` | Six constitution diagrams |
 | `media/videos/` | Ken-Burns stills + pause-crossing animation |
