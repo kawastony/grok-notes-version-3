@@ -28,6 +28,7 @@ Scope: active/pause ontological phase pair, three-bridge minimal model (1 active
 | `notes/31_stream1_v2_weighted_tube.md` | S1 on v2 weighted pair-tube reconstruction |
 | `notes/32_stream1_L10_operator_gated.md` | S1 on residual-gated L=10 Dirac densities |
 | `notes/33_stream1_L10_3x3.md` | Full 3×3 grid; n=9 rank tests |
+| `notes/34_3x3_boundary_not_break.md` | 3×3 is a boundary, not a failed destination |
 | `data/stream1_s15_ollivier.json` | S1.5 numeric dump |
 | `media/stills/` | Six constitution diagrams |
 | `media/videos/` | Ken-Burns stills + pause-crossing animation |
