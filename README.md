@@ -31,6 +31,7 @@ Scope: active/pause ontological phase pair, three-bridge minimal model (1 active
 | `notes/34_3x3_boundary_not_break.md` | 3×3 is a boundary, not a failed destination |
 | `notes/35_transition_slice.md` | Pre-registered v2=2 slice; primary PASS |
 | `notes/36_adjacent_slice_protocol.md` | Next: adjacent v2 cuts; v2 already did this |
+| `notes/37_adjacent_slices.md` | v2=1.9–2.1 PASS; 1.8/2.2 miss; Frel wins pooled |
 | `data/stream1_s15_ollivier.json` | S1.5 numeric dump |
 | `media/stills/` | Six constitution diagrams |
 | `media/videos/` | Ken-Burns stills + pause-crossing animation |
