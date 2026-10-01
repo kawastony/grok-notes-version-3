@@ -17,7 +17,14 @@ Scope: active/pause ontological phase pair, three-bridge minimal model (1 active
 | `notes/04_sparc_freeze.md` | M0/M1 residual freeze (white residuals) |
 | `notes/05_destination_path_boundaries.md` | Bridge images + puzzle + phases by scale |
 | `notes/06_galactic_cosmic_pause.md` | Spatial r_p vs temporal z pause; forced vs free |
+| `notes/24_stream2_sparc_m1_results.md` | SPARC M1 N=92 |
+| `notes/25_stream2_bootstrap_bayes.md` | S ≈ −0.190 freeze |
+| `notes/26_stage0_desi_results.md` | DESI-only; not H0 |
 | `notes/26_visual_constitution.md` | Stills + videos of the four laws |
+| `notes/27_stream1_real_s14.md` | S1.1 S1.2 S1.4 pass (Colab real-file metrics) |
+| `notes/28_stream1_s15_ollivier.md` | S1.5 Ollivier LP/Sinkhorn pass |
+| `notes/29_stream2_pymc_repeat.md` | 2026-10-01 PyMC/LOO repeat |
+| `data/stream1_s15_ollivier.json` | S1.5 numeric dump |
 | `media/stills/` | Six constitution diagrams |
 | `media/videos/` | Ken-Burns stills + pause-crossing animation |
 
