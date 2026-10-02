@@ -35,6 +35,7 @@ Scope: active/pause ontological phase pair, three-bridge minimal model (1 active
 | `notes/38_band_refine_mediation.md` | Edges 1.85–2.15; Frel absorbs v1/labels |
 | `notes/39_licensed_claim.md` | Licensed local mediation; not a filled band |
 | `notes/40_l10_hysteresis.md` | Carried-weight hysteresis on L=10 tubes: miss |
+| `notes/41_midpoint_K_vs_hysteresis.md` | v2 K tool; this v1 path does not hollow the mid |
 | `data/stream1_s15_ollivier.json` | S1.5 numeric dump |
 | `media/stills/` | Six constitution diagrams |
 | `media/videos/` | Ken-Burns stills + pause-crossing animation |
