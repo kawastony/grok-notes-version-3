@@ -43,6 +43,7 @@ Scope: active/pause ontological phase pair, three-bridge minimal model (1 active
 | `notes/46_r_stability.md` | r=1.25 is a knife-edge, not a Wilson regime |
 | `notes/47_r_noise_check.md` | Neighbours of 1.25 all fail; isolated point |
 | `notes/48_v2_wilson_and_qm_plan.md` | v2 froze r=1; QM link is the gated index |
+| `notes/49_on_v2_path.md` | Free Wilson reproduced; feed scored at r=1 |
 | `data/stream1_s15_ollivier.json` | S1.5 numeric dump |
 | `media/stills/` | Six constitution diagrams |
 | `media/videos/` | Ken-Burns stills + pause-crossing animation |
