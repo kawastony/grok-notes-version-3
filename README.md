@@ -47,6 +47,7 @@ Scope: active/pause ontological phase pair, three-bridge minimal model (1 active
 | `notes/50_L10_L12_match.md` | L=10 center peak; L=12 match fails |
 | `notes/51_L15_L20_not_run.md` | L=15 solve killed; L=20 not reached |
 | `notes/52_v2_L12_was_G_sign.md` | v2 L=12 success was Colab G sign, not feed |
+| `notes/53_G_sign_proxy.md` | L=10/12 core-2 G proxy positive; not v2 G |
 | `data/stream1_s15_ollivier.json` | S1.5 numeric dump |
 | `media/stills/` | Six constitution diagrams |
 | `media/videos/` | Ken-Burns stills + pause-crossing animation |
