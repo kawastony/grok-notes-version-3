@@ -1,0 +1,195 @@
+{
+  "protocol": "carried weights, clip, dt=0.01, 3 steps; active iff dW>0; pass if return_v1>leave_v1 and no blow-up",
+  "cuts": [
+    {
+      "v2": 2.0,
+      "leave_v1": null,
+      "return_v1": null,
+      "width": null,
+      "pass_hyst": false,
+      "down": [
+        {
+          "v1": 2.3,
+          "dW": 0.0066604903791667724,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 2.25,
+          "dW": 0.006874040471560039,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 2.2,
+          "dW": 0.007233957336158392,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 2.15,
+          "dW": 0.007794038269753445,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 2.1,
+          "dW": 0.008770344497612603,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 2.05,
+          "dW": 0.010549339766834531,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 2.0,
+          "dW": 0.014193989948362185,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 1.95,
+          "dW": 0.02305630100608752,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 1.9,
+          "dW": 0.028000105464673353,
+          "state": "active",
+          "ok": false,
+          "gated": true
+        }
+      ],
+      "up": [
+        {
+          "v1": 1.7,
+          "dW": 0.0,
+          "state": "pause",
+          "ok": false,
+          "gated": true
+        }
+      ]
+    },
+    {
+      "v2": 2.1,
+      "leave_v1": 1.7,
+      "return_v1": null,
+      "width": null,
+      "pass_hyst": false,
+      "down": [
+        {
+          "v1": 2.3,
+          "dW": 0.006536614670332563,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 2.25,
+          "dW": 0.006261187127090895,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 2.2,
+          "dW": 0.00598063737577903,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 2.15,
+          "dW": 0.005717031085707647,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 2.1,
+          "dW": 0.005549714266806782,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 2.05,
+          "dW": 0.005531733004465467,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 2.0,
+          "dW": 0.005852721348031997,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 1.95,
+          "dW": 0.006833129021350581,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 1.9,
+          "dW": 0.00907575099215574,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 1.85,
+          "dW": 0.013911555940869513,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 1.8,
+          "dW": 0.024204323765398217,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 1.75,
+          "dW": 0.04739567683299095,
+          "state": "active",
+          "ok": true,
+          "gated": true
+        },
+        {
+          "v1": 1.7,
+          "dW": 0.0,
+          "state": "pause",
+          "ok": false,
+          "gated": true
+        }
+      ],
+      "up": [
+        {
+          "v1": 1.7,
+          "dW": 0.0,
+          "state": "pause",
+          "ok": false,
+          "gated": true
+        }
+      ]
+    }
+  ]
+}
