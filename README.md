@@ -41,6 +41,7 @@ Scope: active/pause ontological phase pair, three-bridge minimal model (1 active
 | `notes/44_wilson_r_tilt_interval.md` | Equal-interval tilt; Wilson r=1.25 splits edges |
 | `notes/45_wilson_chiral.md` | Wilson r tunes geometry; QT does not flip |
 | `notes/46_r_stability.md` | r=1.25 is a knife-edge, not a Wilson regime |
+| `notes/47_r_noise_check.md` | Neighbours of 1.25 all fail; isolated point |
 | `data/stream1_s15_ollivier.json` | S1.5 numeric dump |
 | `media/stills/` | Six constitution diagrams |
 | `media/videos/` | Ken-Burns stills + pause-crossing animation |
