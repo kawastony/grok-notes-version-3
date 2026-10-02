@@ -45,6 +45,7 @@ Scope: active/pause ontological phase pair, three-bridge minimal model (1 active
 | `notes/48_v2_wilson_and_qm_plan.md` | v2 froze r=1; QM link is the gated index |
 | `notes/49_on_v2_path.md` | Free Wilson reproduced; feed scored at r=1 |
 | `notes/50_L10_L12_match.md` | L=10 center peak; L=12 match fails |
+| `notes/51_L15_L20_not_run.md` | L=15 solve killed; L=20 not reached |
 | `data/stream1_s15_ollivier.json` | S1.5 numeric dump |
 | `media/stills/` | Six constitution diagrams |
 | `media/videos/` | Ken-Burns stills + pause-crossing animation |
