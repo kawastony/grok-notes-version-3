@@ -1,0 +1,100 @@
+{
+  "control": "m0 at v1=v2=2, d=3",
+  "crossed_K": true,
+  "leave_m0": null,
+  "return_m0": null,
+  "width": null,
+  "pass_hyst": false,
+  "down": [
+    {
+      "m0": 0.0,
+      "K": -0.5010924969996496,
+      "dW": 0.012597792480695258,
+      "state": "active",
+      "ok": true,
+      "gated": true
+    },
+    {
+      "m0": 0.05,
+      "K": 0.33261082244131274,
+      "dW": 0.012554682931886552,
+      "state": "active",
+      "ok": true,
+      "gated": true
+    },
+    {
+      "m0": 0.1,
+      "K": 0.37773584737357535,
+      "dW": 0.012362171983897996,
+      "state": "active",
+      "ok": true,
+      "gated": true
+    },
+    {
+      "m0": 0.15,
+      "K": -0.3863078458065984,
+      "dW": 0.011914895635311451,
+      "state": "active",
+      "ok": true,
+      "gated": true
+    },
+    {
+      "m0": 0.2,
+      "K": 0.17100519331541308,
+      "dW": 0.011207434125820703,
+      "state": "active",
+      "ok": true,
+      "gated": true
+    },
+    {
+      "m0": 0.25,
+      "K": 0.4276191143306507,
+      "dW": 0.010120587701600514,
+      "state": "active",
+      "ok": true,
+      "gated": true
+    },
+    {
+      "m0": 0.3,
+      "K": -0.1952322881328385,
+      "dW": 0.008594671449143276,
+      "state": "active",
+      "ok": true,
+      "gated": true
+    }
+  ],
+  "up": [
+    {
+      "m0": 0.3,
+      "K": -0.1952322881328385,
+      "dW": 0.006706937884358943,
+      "state": "active",
+      "ok": true,
+      "gated": true
+    },
+    {
+      "m0": 0.25,
+      "K": 0.4276191143306507,
+      "dW": 0.004798634711494776,
+      "state": "active",
+      "ok": true,
+      "gated": true
+    },
+    {
+      "m0": 0.2,
+      "K": 0.17100519331541308,
+      "dW": 0.004054361365121717,
+      "state": "active",
+      "ok": true,
+      "gated": true
+    },
+    {
+      "m0": 0.15,
+      "K": -0.3863078458065984,
+      "dW": 0.0,
+      "state": "pause",
+      "ok": false,
+      "gated": true
+    }
+  ]
+}

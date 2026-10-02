@@ -37,6 +37,7 @@ Scope: active/pause ontological phase pair, three-bridge minimal model (1 active
 | `notes/40_l10_hysteresis.md` | Carried-weight hysteresis on L=10 tubes: miss |
 | `notes/41_midpoint_K_vs_hysteresis.md` | v2 K tool; this v1 path does not hollow the mid |
 | `notes/42_K_does_not_cross.md` | Polarized corner also K>0; hysteresis not rerun |
+| `notes/43_alt_controls_hysteresis.md` | d, m0, r can hollow; m0 loop still misses |
 | `data/stream1_s15_ollivier.json` | S1.5 numeric dump |
 | `media/stills/` | Six constitution diagrams |
 | `media/videos/` | Ken-Burns stills + pause-crossing animation |
