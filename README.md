@@ -39,6 +39,7 @@ Scope: active/pause ontological phase pair, three-bridge minimal model (1 active
 | `notes/42_K_does_not_cross.md` | Polarized corner also K>0; hysteresis not rerun |
 | `notes/43_alt_controls_hysteresis.md` | d, m0, r can hollow; m0 loop still misses |
 | `notes/44_wilson_r_tilt_interval.md` | Equal-interval tilt; Wilson r=1.25 splits edges |
+| `notes/45_wilson_chiral.md` | Wilson r tunes geometry; QT does not flip |
 | `data/stream1_s15_ollivier.json` | S1.5 numeric dump |
 | `media/stills/` | Six constitution diagrams |
 | `media/videos/` | Ken-Burns stills + pause-crossing animation |
